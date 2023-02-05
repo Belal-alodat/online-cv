@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Belal Faisal
-    tagline: Full Stack Developer
+    tagline: Java Full Stack Developer
     avatar: belal_100x100.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -17,13 +17,13 @@ sidebar:
     timezone: America/Cancun Timezone
     citizenship:
     website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
+    linkedin: belal-alodat
     xing: alandoe
-    github: sharu725
+    github: belal-alodat
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -42,10 +42,7 @@ sidebar:
       title: Interests
       info:
         - item: Climbing
-          link:
-
-        - item: Snowboarding
-          link:
+          link:       
 
         - item: Cooking
           link:
@@ -53,12 +50,9 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I am a talented and motivated Java Full stack developer with a solid understanding of OOP principles.
+      My technical expertise and passion for delivering effective solutions make me a valuable asset to leading cross functional teams to success and committed to delivering high quality results.
+
 education:
     title: Education
     info:
