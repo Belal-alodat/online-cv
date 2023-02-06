@@ -64,9 +64,9 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: java Developer
-        time: 2023 - Present
-        company: Startup Hubs, San Francisco
+      - role: java developer trainee
+        time: March, 2022 - Septmber, 2022
+        company: KTS, Jordan
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -156,6 +156,15 @@ skills:
         
       - name: java spring boot
         level: 80%
+        
+      - name: SQL
+        level: 95%
+        
+      - name: PHP
+        level: 85%
+
+      - name: C++
+        level: 85%
 
       - name: Javascript & jQuery
         level: 90%
