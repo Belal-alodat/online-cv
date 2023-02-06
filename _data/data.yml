@@ -48,16 +48,16 @@ sidebar:
           link:
 
 career-profile:
-    title: Career Profile
+    title: Objective
     summary: |
       I am a talented and motivated Java Full stack developer with a solid understanding of OOP principles.
-      My technical expertise and passion for delivering effective solutions make me a valuable asset to leading cross functional teams to success and committed to delivering high quality results.
+      Seeking a challenging job as java full stack developer, which will help be fully utilize my potential and skills.
 
 education:
     title: Education
     info:
-      - degree: BSc in Computer science
-        university: Jerash University
+      - degree: Bachelor Degree in Computer science
+        university: Jerash University, Jordan.
         time: 2020 - 2023
         details: |
           Describe your study here
@@ -81,7 +81,7 @@ experiences:
             - Bullet point
       
 certificates:
-    title: certificates
+    title: Training courses & certifications
     intro: >
       You can list your side projects in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
@@ -109,15 +109,14 @@ certificates:
 
 
 projects:
-    title: Projects
+    title: Personal Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      
     assignments:
-      - title: Velocity
+      - title: Fast Trans Mobile Application 
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "This logistic application is designed to serve the company's customers (merchants) to delivery their shipments to their Customers, in an easy,
+                   efficient, and modern way that suits all tastes. That would eliminate the need of traditional pen/paper approach to manage"
 
       - title: DevStudio
         link: "#"
