@@ -46,7 +46,8 @@ education:
     title: Education
     info:
       - degree: Bachelor Degree in Computer science
-        university: Jerash University, Jordan. With GPA 82.9
+        gpa: 82.9
+        university: Jerash University, Jordan.
         time: 2020 - 2023
         details: |
          
