@@ -66,17 +66,14 @@ certificates:
     intro: >
     
     assignments:
-      - title: Learn Hibernate and Spring [As A Total Beginner] Tutorial
+      - title: Learn Hibernate and Spring
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "| Udemy"
 
       - title: Learn AWS - Deploy Java Spring Boot to AWS Elastic Beanstalk
         link: "#"
         tagline: "| Udemy"
 
-      - title: Tempo
-        link: "#"
-        tagline: "| Udemy"
 
 
 
