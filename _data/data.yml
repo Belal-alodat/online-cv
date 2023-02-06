@@ -4,10 +4,10 @@
 
 sidebar:
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Belal Faisal
+    name: Belal Alodat
     tagline: Java Full Stack Developer
     avatar: belal_100x100.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -39,7 +39,7 @@ sidebar:
 career-profile:
     title: Objective
     summary: |
-      I am a talented and motivated Java Full stack developer with a solid understanding of OOP principles.
+      I am a talented and motivated java full stack developer with a solid understanding of OOP principles.
       Seeking a challenging job as java full stack developer, which will help be fully utilize my potential and skills.
 
 education:
