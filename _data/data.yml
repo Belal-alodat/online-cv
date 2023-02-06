@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Belal Alodat
-    tagline: Java Full Stack Developer
+    tagline: Full Stack Developer
     avatar: belal_100x100.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -39,8 +39,8 @@ sidebar:
 career-profile:
     title: Objective
     summary: |
-      I am a talented and motivated java full stack developer with a solid understanding of OOP principles.
-      Seeking a challenging job as java full stack developer, which will help to fully utilize my potential and skills.
+      I am a talented and motivated full stack developer with a solid understanding of OOP principles.
+      Seeking a challenging job as full stack developer, which will help to fully utilize my potential and skills.
 
 education:
     title: Education
@@ -53,7 +53,7 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: java developer trainee
+      - role: full stack developer trainee
         time: March, 2022 - Septmber, 2022
         company: KTS, Jordan
         details: |
