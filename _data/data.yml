@@ -67,13 +67,13 @@ certificates:
     intro: >
     
     assignments:
-      - title: Learn Hibernate and Spring
+      - title:  .NET 6: The Big Picture
         link: "#hook"
-        tagline: "| Udemy"
+        tagline: "| pluralsight"
 
-      - title: Learn AWS - Deploy Java Spring Boot to AWS Elastic Beanstalk
+      - title: Object-oriented Programming in C# 10
         link: "#"
-        tagline: "| Udemy"
+        tagline: "| pluralsight"
 
 
 
@@ -121,10 +121,10 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: java
-        level: 98%
+      - name: C#
+        level: 85%
         
-      - name: java spring boot
+      - name: java 
         level: 80%
         
       - name: SQL
