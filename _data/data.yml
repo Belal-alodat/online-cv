@@ -12,7 +12,7 @@ sidebar:
     avatar: belal_100x100.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: b.f.alodat@gmail.com
+    email: belalodat08@gmail.com
     phone: 00962-779223554
     linkedin: belal-alodat
     github: belal-alodat
@@ -120,7 +120,14 @@ skills:
     toolset:
       - name: C#
         level: 85%
-        
+      
+      - name: Asp.Net Core
+        level: 75%
+      
+      - name: Restfull API
+        level: 75%
+       
+
       - name: java 
         level: 80%
         
