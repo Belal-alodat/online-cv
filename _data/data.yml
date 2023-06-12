@@ -67,9 +67,6 @@ certificates:
     intro: >
     
     assignments:
-      - title:  .NET 6: The Big Picture
-        link: "#hook"
-        tagline: "| pluralsight"
 
       - title: Object-oriented Programming in C# 10
         link: "#"
